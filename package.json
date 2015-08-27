@@ -2,7 +2,7 @@
   "name": "requestcatcher",
   "version": "0.0.1",
   "description": "log requests",
-  "main": "index.js",
+  "main": "node index.js",
   "dependencies": {
     "express-bunyan-logger": "^1.1.1",
     "express": "^4.13.3"
