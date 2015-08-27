@@ -1,0 +1,27 @@
+{
+  "name": "requestcatcher",
+  "version": "0.0.1",
+  "description": "log requests",
+  "main": "index.js",
+  "dependencies": {
+    "express-bunyan-logger": "^1.1.1",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "date"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prafulrana/RequestCatcher.git"
+  },
+  "keywords": [
+    "request"
+  ],
+  "author": "Praful Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prafulrana/RequestCatcher/issues"
+  },
+  "homepage": "https://github.com/prafulrana/RequestCatcher#readme"
+}
